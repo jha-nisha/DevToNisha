@@ -1,6 +1,0 @@
-com/rest/demo/todo/Demo/DemoApplication.class
-com/rest/demo/todo/Entity/TodoEntity.class
-com/rest/demo/todo/Services/TodoService.class
-com/rest/demo/todo/config/Todoconfig.class
-com/rest/demo/todo/controller/TodoController.class
-com/rest/demo/todo/Repository/TodoRepository.class
